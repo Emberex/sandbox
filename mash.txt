@@ -7,4 +7,3 @@ hops
 etc.
 
 raspberries.
-whole wheat english muffin
