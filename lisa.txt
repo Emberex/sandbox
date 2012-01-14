@@ -1,0 +1,2 @@
+This is a new file.
+This is an addition to the new file.
